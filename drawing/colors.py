@@ -3,3 +3,6 @@ def red():
 
 def green():
     print("Verde")
+
+def blue():
+    print("Azul")
